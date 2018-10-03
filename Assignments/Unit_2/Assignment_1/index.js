@@ -5,16 +5,41 @@
 
 
 // 2. Create a variable called "myNum" and assign it a value of 3
+/*let  mynum = function (3) {
+ return 3*3;
+ }
+console.log (mynum(3)*/
+
+let mynum = 3;
+
+
 
 // 3. Output/print/return the value of the "myNum" variable
 
+ return 3; {
+ 	console.log('mynum'(3));
+ };
+
+
+
 // 4. Assign "mynum" a value of 7
 
+let mynum = 7;
+
 // 5. Output/print/return the value of "myNum"
+return 7 {
+	console.log('mynum'(7));
+};
 
 // 6. Increase the value of "myNum" by 3
 
+
+
+
+
+
 // 7. Output/print/return the value of "myNum"
+
 
 // 8. Create another variable called "myOtherNum" with value 5
 
